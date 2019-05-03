@@ -1,0 +1,5 @@
+Keras Image Classification
+
+CNN for binary class image classification using Keras 
+
+Download the code and dataset and run the load.py first and then predict.py
